@@ -4,7 +4,7 @@ Software engineer with a strong focus on low-level systems, reverse engineering,
 I enjoy building efficient tools, automations, and security-oriented projects.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&duration=3000&pause=800&color=00D1FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Malware+Developer;Game+Manipulator;Reverse+Engineer" alt="Typing SVG" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vladpieskov?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 </p>
 
 ---
